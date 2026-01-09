@@ -1,0 +1,13 @@
+.menu-section {
+  background-color: #bdbdbd;
+  padding: 20px;
+  height: 1000px;
+}
+
+#mobile-menu {
+  background-color: #e0e0e0;
+}
+
+#mobile-menu a {
+  border-bottom: 1px solid #999;
+}
